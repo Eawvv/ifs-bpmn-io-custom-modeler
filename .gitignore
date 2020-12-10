@@ -1,0 +1,54 @@
+# Build output
+**/bin/
+**/obj/
+
+# Folders
+packages/
+TestResults/
+*.ide/
+.vs/
+.*cache/
+
+# VS files
+*.suo
+*.DotSettings
+*.dotsettings
+*.user
+*.vstemplate
+*.vssscc
+*.vspscc
+*.error
+*.tmp_proj
+
+# Config files
+Framework.Data.config
+VisionWaves.Test.config
+Theme.config
+BiCockpit.config
+IoTCockpit.config
+VisionWaves.Web.ITest.config
+
+# Other files
+*.css.map
+*.bak
+*.log
+*.orig
+*Thumbs.db
+license.lic
+Web.Transformed.config
+
+VisionWaves.Web/config/app.config
+VisionWaves.Web/log/
+VisionWaves.Web/Styling/Bundle.css
+VisionWaves.Web/Styling/Bundle.min.css
+VisionWaves.Web/Areas/CustomChart/Views/Web.config
+VisionWaves.Web/Areas/CustomChart/Views/PartCustomChart/Index.cshtml
+Solution.CustomChart.Client.debug.js
+Solution.CustomChart.Models.js
+Solution.CustomChart.Models.debug.js
+Solution.CustomChart.Client.js
+/.idea
+/.localhistory
+/UpgradeLog.htm
+*.lock.json
+/node_modules

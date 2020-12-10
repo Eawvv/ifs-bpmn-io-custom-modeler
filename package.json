@@ -1,0 +1,19 @@
+{
+  "name": "ifs-bpmn-io-custom-modeler",
+  "version": "0.0.1",
+  "description": "contains custom modeler for bpmn.io, based on https://github.com/bpmn-io/bpmn-js-examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bpmn",
+    "io"
+  ],
+  "author": "IFS",
+  "license": "ISC",
+  "dependencies": {
+    "bpmn-js": "^7.5.0",
+    "bpmn-js-properties-panel": "^0.37.6"
+  }
+}
