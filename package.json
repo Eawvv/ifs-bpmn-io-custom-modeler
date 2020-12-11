@@ -1,6 +1,6 @@
 {
   "name": "ifs-bpmn-io-custom-modeler",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "contains custom modeler for bpmn.io, based on https://github.com/bpmn-io/bpmn-js-examples",
   "main": "index.js",
   "scripts": {
